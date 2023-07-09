@@ -1,0 +1,8 @@
+Video  48 - SignalR: Hola mundo | Programando en ASP.NET Core 2.1
+	https://www.youtube.com/watch?v=lB15IMgAwxw&ab_channel=gavilanch2
+
+Video Real-Time Chat | Using React, .Net 5.0 and SignalR
+	https://www.youtube.com/watch?v=nEQvA5HfEDE&ab_channel=AsielAlvarez
+
+
+
